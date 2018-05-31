@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons-text.iml" filepath="$PROJECT_DIR$/commons-text.iml" />
       <module fileurl="file://$PROJECT_DIR$/news-service.iml" filepath="$PROJECT_DIR$/news-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/pictures-service.iml" filepath="$PROJECT_DIR$/pictures-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-service.iml" filepath="$PROJECT_DIR$/user-service.iml" />

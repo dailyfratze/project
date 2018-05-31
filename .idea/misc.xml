@@ -4,6 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-news/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-pictures/pom.xml" />
+        <option value="$PROJECT_DIR$/../commons-text/pom.xml" />
       </list>
     </option>
   </component>
